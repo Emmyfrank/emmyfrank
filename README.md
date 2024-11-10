@@ -1,4 +1,4 @@
-# Hi, I'm Ngendahimana Emmanuel! 👋
+# Hi, I'm Ngendahimana Frank Emmanuel! 👋
 
 I'm a passionate full-stack web and mobile application developer with expertise in various programming languages and technologies. Here's a glimpse of what I work with:
 
