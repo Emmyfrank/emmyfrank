@@ -86,5 +86,9 @@ I enjoy crafting elegant solutions to complex problems and have a strong focus o
 |-|-|-|
 |[![emmyfrank's github stats](https://github-readme-stats.vercel.app/api?username=emmyfrank&show_icons=true&theme=dark&hide_title=true)](https://github.com/emmyfrank)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmyfrank&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/emmyfrank)|![emmyfrank](https://github-readme-streak-stats.herokuapp.com/?user=emmyfrank&theme=dark)|
 
+<!-- my-badges start -->
+
+<!-- my-badges end -->
+
 
 
