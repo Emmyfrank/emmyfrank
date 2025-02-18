@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Emmyfrank/snapchat-login/commit/a08f019c70d61c91cad499d7f8c79ece968480a1\"><strong>a</strong>08f019c70d61c91cad499d7f8c79ece968480a1</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Emmyfrank/commanders-rn-medica/commit/ae187650608ae19d6fd4709d6e27290e1cda9900\">ae18765</a>\n- <a href=\"https://github.com/Emmyfrank/snapchat-login/commit/a08f019c70d61c91cad499d7f8c79ece968480a1\">a08f019</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"commit\".",
+    "body": "My favorite commit message words are:\n\n1. commit (used 53 times)\n2. update (used 43 times)\n3. initial (used 30 times)\n4. readme.md (used 23 times)\n5. merge (used 22 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 7 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/133a7e0e78027f3b5c6bf73f0311c38d28362371\">133a7e0</a>: fix: deployment fix\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/072f27e6d507dd80b4d77f02ff811c0899c6093d\">072f27e</a>: fixing reployment issue\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/27fafbd437eb3f52affe09e9af238465ce9357b5\">27fafbd</a>: fixing deployment\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/565da8657905f7f0eaa1d7633c2398b9cac68d93\">565da86</a>: fix:(deploying on rende)\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/73f66aa1d222ec3fb455609611d0a772c52624b4\">73f66aa</a>: fix:(updating ts version)\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/28a8cbab4636e1c49fa43f625a42b5a2d54c77b4\">28a8cba</a>: fix:(update vercel)\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/8d144dcb1aa27413111dab063b2d80550adb1eea\">8d144dc</a>: fix:adding sourcje in vercel",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Emmyfrank/kanban-challange/commit/e83ca3d0a90bebc0da3a13d83c67e2127aa9dbe1\">e83ca3d</a>: fixing errors that was restricting to host\n- <a href=\"https://github.com/Emmyfrank/kanban-challange/commit/6355a1d7097e617082a0a0fb67e694cbf2f5fa00\">6355a1d</a>: fixing hosting errors",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Emmyfrank/backend/commit/717e3cb698b87f065e7d9302b41e1252c9817f0d\">717e3cb</a>: fixed\n- <a href=\"https://github.com/Emmyfrank/backend/commit/cf106acf04b2e82b725d86255011dc7de4b1d490\">cf106ac</a>: fixed\n- <a href=\"https://github.com/Emmyfrank/backend/commit/09560362a89df12b28812e6da66c0ad6eb56f130\">0956036</a>: fixingberror",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Emmyfrank/backend/commit/2861fd666936772ff89dafddd697b1b71e78f272\">2861fd6</a>\n- <a href=\"https://github.com/Emmyfrank/backend/commit/58662fce19fe276e73a0109f75b79f129591219e\">58662fc</a>\n- <a href=\"https://github.com/Emmyfrank/backend/commit/1d8a03b9fb80199bf8f545cb8fa15deef408524c\">1d8a03b</a>\n- <a href=\"https://github.com/Emmyfrank/backend/commit/a123b70485841259d37c6fdbbea25a51a46a153f\">a123b70</a>\n- <a href=\"https://github.com/Emmyfrank/backend/commit/485c4316b49af52f0303aa4febce1150310e71d6\">485c431</a>\n- <a href=\"https://github.com/Emmyfrank/backend/commit/6629ab99a90422ad4bdbf96d8e01e52fa3308c0f\">6629ab9</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/27fafbd437eb3f52affe09e9af238465ce9357b5\">27fafbd</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Emmyfrank/backend/commit/2861fd666936772ff89dafddd697b1b71e78f272\">2861fd6</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/atlp-rwanda/commanders-rn-medica/pull/102\">#102</a>: Feature: doctors Details implementation",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Emmyfrank/HR-app/commit/044c6db652304b9d9e67bab76aa2b217bb47dad3\">044c6db</a>\n- <a href=\"https://github.com/Emmyfrank/register/commit/2915f19436eef2263cd254f56af42a8705742e22\">2915f19</a>\n- <a href=\"https://github.com/Emmyfrank/register/commit/809ab80fe67f7ba65c773cb1893e7cbbfda4974d\">809ab80</a>\n- <a href=\"https://github.com/Emmyfrank/register/commit/2cb5d447a269995746468a7f6edc6b036229313a\">2cb5d44</a>\n- <a href=\"https://github.com/Emmyfrank/registrationForm/commit/02b220761918a0c327499564f7e331af77f526f5\">02b2207</a>\n- <a href=\"https://github.com/Emmyfrank/backend/commit/6298fc7446a1312a144b07314f33272b6fe7b70d\">6298fc7</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/ec0dfe888b7e3b1819c1b780ba62f68d58908b42\">ec0dfe8</a>\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/f049e75c7e8c38408dba41ba3c6e698c1b3a786d\">f049e75</a>\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/133a7e0e78027f3b5c6bf73f0311c38d28362371\">133a7e0</a>\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/072f27e6d507dd80b4d77f02ff811c0899c6093d\">072f27e</a>\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/27fafbd437eb3f52affe09e9af238465ce9357b5\">27fafbd</a>\n- <a href=\"https://github.com/Emmyfrank/cv-search-backend/commit/565da8657905f7f0eaa1d7633c2398b9cac68d93\">565da86</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
