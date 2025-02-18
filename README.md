@@ -84,7 +84,7 @@ I enjoy crafting elegant solutions to complex problems and have a strong focus o
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![emmyfrank's github stats](https://github-readme-stats.vercel.app/api?username=emmyfrank&show_icons=true&theme=dark&hide_title=true)](https://github.com/emmyfrank)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmyfrank&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/emmyfrank)|![emmyfrank](https://github-readme-streak-stats.herokuapp.com/?user=emmyfrank&theme=dark)|
+|[![emmyfrank's github stats](https://github-readme-stats.vercel.app/api?username=emmyfrank&show_icons=true&theme=dark&hide_title=true)](https://github.com/emmyfrank)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmyfrank&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/emmyfrank)|[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Emmyfrank&theme=dark)](https://git.io/streak-stats)
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
