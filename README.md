@@ -1,7 +1,7 @@
 <!-- ===================== HERO 3D HEADER (ONLY ONE - STABLE) ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Ngendahimana%20Frank%20Emmanuel&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Hello👋%20I'm%20Ngendahimana%20Frank%20Emmanuel%20(Nono)&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ===================== SINGLE TYPING ANIMATION (OPTIMIZED) ===================== -->
