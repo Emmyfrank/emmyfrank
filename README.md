@@ -1,86 +1,153 @@
-# Hi, I'm Ngendahimana Frank Emmanuel! 👋
+<!-- ===================== HERO 3D HEADER (ONLY ONE - STABLE) ===================== -->
 
-I'm a passionate full-stack web and mobile application developer with expertise in various programming languages and technologies. Here's a glimpse of what I work with:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Ngendahimana%20Frank%20Emmanuel&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<!-- ===================== SINGLE TYPING ANIMATION (OPTIMIZED) ===================== -->
 
-## Skills
-- **Frontend**: 
-  ![HTML](https://img.shields.io/badge/-HTML-orange)
-  ![CSS](https://img.shields.io/badge/-CSS-blue)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-blueviolet)
-  ![React.js](https://img.shields.io/badge/-React.js-blue)
-  ![React Native](https://img.shields.io/badge/-React%20Native-green)
-  
-- **Backend**: 
-  ![Node.js](https://img.shields.io/badge/-Node.js-green)
-  ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
-  ![SQL](https://img.shields.io/badge/-SQL-red)
-  ![PHP](https://img.shields.io/badge/-PHP-purple)
-  
-- **Other Languages**: 
-  ![C](https://img.shields.io/badge/-C-blue)
-  ![C++](https://img.shields.io/badge/-C++-blueviolet)
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  ![Python](https://img.shields.io/badge/-Python-yellow)
-  ![C#](https://img.shields.io/badge/-C%23-green)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;Go+%7C+Distributed+Systems+Architect;IoT+%7C+Automotive+Systems+Engineer;Cloud-Native+%7C+Microservices+%7C+DevOps;Building+Scalable+Real-World+Systems+%F0%9F%9A%80" />
+</p>
 
-- **IoT**: 
-  ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-lightgrey)
-  ![NodeMCU](https://img.shields.io/badge/-NodeMCU-blue)
-  ![Hardware Programming](https://img.shields.io/badge/-Hardware%20Programming-yellowgreen)
-  ![Mechanics](https://img.shields.io/badge/-Mechanics-brown)
+---
+## Senior Software Engineer | Systems Architect | IoT & Automotive Systems Engineer
+
+I am a **Senior Software Engineer with 10+ years of experience** across:
+
+- Full-stack development
+- Distributed systems architecture
+- Cloud-native engineering
+- IoT & embedded systems
+- Automotive electronics & control systems
+
+I specialize in building **scalable, production-grade, high-performance systems**.
+
+---
+
+# 🎯 Core Focus
+
+- 🐹 Go (Golang) Backend Systems & Microservices
+- ☁️ Cloud-Native Architecture
+- ⚙️ Distributed Systems & System Design
+- 📱 Mobile Engineering (React Native)
+- 🔌 IoT & Embedded Systems
+- 🚗 Automotive Control Systems
+- 🤖 Intelligent Automation Systems
+
+---
+
+# 🎓 Education
+
+- 🎓 Master of Science in Information Technology *(In Progress)*
+- 🎓 Bachelor’s in Computer Engineering
+- 🎓 Bachelor’s in Computer Science
+
+---
+
+## ⚡ Languages & Technologies
+
+### 🧠 Core Programming Languages
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
+
+---
+
+### ⚙️ Backend & System Engineering
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![gRPC](https://img.shields.io/badge/-gRPC-2DA6F7?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-FF6F00?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
+---
+
+### 🗄 Databases & Data Systems
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+---
+
+### 📱 Mobile Engineering
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=for-the-badge)
+![Native Modules](https://img.shields.io/badge/-Native_Modules-FF6F00?style=for-the-badge)
+
+---
+
+### 🌐 Frontend Engineering
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=for-the-badge&logo=mui)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock)
+
+---
+
+### 🔌 IoT & Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino)
+![NodeMCU](https://img.shields.io/badge/-NodeMCU-000000?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/-NodeMCU-000000?style=for-the-badge)
+![Embedded C](https://img.shields.io/badge/-Embedded_C-00599C?style=for-the-badge)
+![Hardware Programming](https://img.shields.io/badge/-Hardware_Programming-8B0000?style=for-the-badge)
+
+---
+
+### 🚗 Automotive Systems
+![ECU](https://img.shields.io/badge/-ECU_Systems-1E90FF?style=for-the-badge)
+![Injection Systems](https://img.shields.io/badge/-Fuel_Injection-FF4500?style=for-the-badge)
+![Gearbox Systems](https://img.shields.io/badge/-Gearbox_Control-2E8B57?style=for-the-badge)
+![Diagnostics](https://img.shields.io/badge/-Diagnostics-8A2BE2?style=for-the-badge)
+
 
 - 💡 Proficient in IoT (Internet of Things) development, specializing in modern car computers, including search systems, gearbox computers, injection system computers, and all automated parts in vehicles.
 - 🔧 Experienced in embedded systems, adept at handling both hardware and software components.
 - 💪 Strong understanding of IPO (Input Processing and Output) principles.
+## 🚗 Automotive Systems
 
+- ECU systems
+- Fuel injection systems
+- Gearbox control systems
+- Automotive diagnostics
 
-## About Me
-I enjoy crafting elegant solutions to complex problems and have a strong focus on delivering high-quality, scalable software solutions. With experience in both web and mobile development, I thrive in dynamic environments where I can apply my diverse skill set to create innovative applications.
+---
 
+# 🏗 Engineering Expertise
 
-## Current Emphasis
+✔ System Design  
+✔ Distributed Systems  
+✔ Microservices Architecture  
+✔ Cloud Infrastructure  
+✔ IoT Systems  
+✔ Embedded Engineering  
+✔ Performance Optimization  
 
-- 🌱 Presently directing efforts towards full-stack mobile and web application development
-- 👨‍💻 Junior Full Stack Developer (Mobile & Web)
-
-
-## Get in Touch
-- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ngendahimana-emmanuel-0561501a0/)
-- [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:emmynono2013@gmail.com)
-
-- 💻 Languages and Tools: 🛠️<br>
-
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![Sanity](https://img.shields.io/badge/-Sanity-000000?style=flat&logo=sanity)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![Mongoose ORM](https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=mongoose)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
-![Appwrite](https://img.shields.io/badge/-Appwrite-000000?style=flat&logo=appwrite)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=zustand)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
-![EJS](https://img.shields.io/badge/-EJS-000000?style=flat&logo=ejs)
-![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity)
-![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma)
-![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=flat&logo=spring-boot)
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-000000?style=flat&logo=thymeleaf)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/-Material_UI-000000?style=flat&logo=material-ui)
-![GSAP](https://img.shields.io/badge/-GSAP-000000?style=flat&logo=greensock)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-
-
+---
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
@@ -101,6 +168,3 @@ I enjoy crafting elegant solutions to complex problems and have a strong focus o
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <!-- my-badges end -->
-
-
-
